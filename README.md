@@ -1,1 +1,1 @@
-# Machine_Learning_for_playing_game
+# Machine_Learning_and_Image-Recognition
