@@ -9,7 +9,6 @@ from vision import Vision
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # initialize the WindowCapture class
-# wincap = WindowCapture('Honkai: Star Rail')
 wincap = WindowCapture()
 # initialize the Vision class
 vision_limestone = Vision('target.jpg')
